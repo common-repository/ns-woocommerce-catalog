@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-11-13 15:59+0100\n"
+"PO-Revision-Date: 2018-11-13 16:04+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ns-woocommerce-catalog\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ns-woocommerce-catalog-admin.php:28
+msgid "NS WooCommerce Catalog settings"
+msgstr "Impostazioni NS WooCommerce Catalog"
+
+#: ns-woocommerce-catalog-admin.php:36
+msgid "Enabled Plugin"
+msgstr "Plugin disabilitato"
+
+#: ns-woocommerce-catalog-admin.php:37
+msgid "Unselect to disabled plugin"
+msgstr "Deseleziona per disabilitare il plugin"
+
+#: ns-woocommerce-catalog-admin.php:47
+msgid "Hide cart in product detail page"
+msgstr "Nascondi carrello nella pagina del singolo prodotto"
+
+#: ns-woocommerce-catalog-admin.php:48
+msgid "Hide \"Add to Cart\" button in product detail page"
+msgstr "Nascondi “aggiungi al carrello” nella pagina singolo prodotto"
+
+#: ns-woocommerce-catalog-admin.php:58
+msgid "Hide cart in other page"
+msgstr "Nascondi carrello nelle altre pagine"
+
+#: ns-woocommerce-catalog-admin.php:59
+msgid "Hide \"Add to Cart\" button in the other pages of the site"
+msgstr "Nascondi “aggiungi al carrello” nelle altre pagine del sito"
+
+#: ns-woocommerce-catalog-admin.php:69
+msgid "Hide cart and checkout page"
+msgstr "Nascondi le pagine del checkout e del carrello"
+
+#: ns-woocommerce-catalog-admin.php:70
+msgid "If select the cart and checkout page redirect to home"
+msgstr "Se selzionato le pagine carrello e checkout reindirizzeranno alla home"
+
+#: ns-woocommerce-catalog-admin.php:93
+msgid "Save Changes"
+msgstr "Salva modifiche"
